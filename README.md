@@ -24,7 +24,8 @@ I've worked on projects ranging from fixing/improving CI/CD pipelines, building 
 ![](https://img.shields.io/badge/Virtualization-VMware-informational?style=for-the-badge&logo=VMware&logoColor=white&color=rgb(0,149,211))
 
 ## 🎓 Certifications
-![](https://img.shields.io/badge/Azure-Solutions_Architect-informational?style=for-the-badge&logo=microsoft-azure)
+![](https://img.shields.io/badge/Azure-Solutions_Architect-informational?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=0089d6)
+![](https://img.shields.io/badge/Kubernetes-Application_Developer-informational?style=for-the-badge&logo=Kubernetes&logoColor=white&color=326ce5)
 
 ## 🌱 Currently Learning
 I'm currently learning about Kubernetes with the goal of becoming a Certified Kubernetes Application Developer.
