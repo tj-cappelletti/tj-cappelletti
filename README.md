@@ -37,14 +37,15 @@ The story of IT, right? 😁
 ## 🔭 Currently Working On
 I've taken on a really fun side project that needs a bit of a setup story.
 In middle school, a group of my friends and I in the A/V Club were approached by one of the tech-ed teachers about joining a club called [Technology Student Association (TSA)][tsa-story].
-The quick background is they are an organization for students to use technology to compete in compotitions against one another.
+The quick background is they are an organization for students to use technology to compete in competitions against one another.
 It open my eyes to a whole new world and honestly made me the geek I am today.
 
 Fast-forward to today, my daughter joined the very same club (the awesome part is she did it without me even suggesting it).
 To give back to an organization that gave me so much, I volunteer as a judge for the regional and state competitions.
-One of the competitions is a codeing compeition where students have two hours to solve a series of problems using a language of their choosing.
-The problem, they judge and evaluate the solutions by hand making the competition painful for all involed.
-So the geek in me got to work and I'm currently building out a tool that will do most of the judging and evaluation automatically. Checkout any of my repos with `TSA` in the name if you are curious or are interested in contributing.
+One of the competitions is a coding competition where students have two hours to solve a series of problems using a language of their choosing.
+The problem, they judge and evaluate the solutions by hand making the competition painful for all involved.
+So the geek in me got to work and I'm currently building out a tool that will do most of the judging and evaluation automatically.
+Checkout any of my repos with `TSA` in the name if you are curious or are interested in contributing.
 
 ## ⚡ Fun Facts
 Some fun and random facts about me:
