@@ -56,4 +56,9 @@ Some fun and random facts about me:
 - I used to volunteer as an EMT/Firefighter but work has kept me too busy for that
   - I do plan to try and to return to it soon
 
+## 🥇 Badges
+![](./github-advanced-security.png)
+
+![](./microsoft-certified-azure-solutions-architect-expert.png)
+
 [tsa-story]: [https://tsaweb.org/about/about-tsa/story]
