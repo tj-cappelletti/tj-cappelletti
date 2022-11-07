@@ -25,6 +25,7 @@ I've worked on projects ranging from fixing/improving CI/CD pipelines, building 
 
 ## 🎓 Certifications
 ![](https://img.shields.io/badge/Azure-Solutions_Architect-informational?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=0089d6)
+1[](https://img.shields.io/badge/Certification-GitHub%20Advanced%20Security-informational?style=for-the-badge&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/Kubernetes-Application_Developer-informational?style=for-the-badge&logo=Kubernetes&logoColor=white&color=326ce5)
 
 ## 🌱 Currently Learning
