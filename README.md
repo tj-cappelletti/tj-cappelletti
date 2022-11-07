@@ -59,6 +59,6 @@ Some fun and random facts about me:
 ## 🥇 Badges
 ![](./github-advanced-security.png)
 
-![](./microsoft-certified-azure-solutions-architect-expert.png)
+![](./microsoft-certified-azure-solutions-architect.png)
 
 [tsa-story]: [https://tsaweb.org/about/about-tsa/story]
