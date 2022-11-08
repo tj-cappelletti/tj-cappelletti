@@ -11,7 +11,7 @@ I've worked on projects ranging from fixing/improving CI/CD pipelines, building 
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=amazon-aws&logoColor=white&color=232f3e)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=0089d6)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=for-the-badge&logo=%2enet&logoColor=white&color=5C2D91)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=%2enet&logoColor=white&color=007acc)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/Database-SQL_Server-informational?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=CC2927)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=E95420)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)
