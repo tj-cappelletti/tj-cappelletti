@@ -25,6 +25,7 @@ I've worked on projects ranging from fixing/improving CI/CD pipelines, building 
 
 ## 🎓 Certifications
 ![](https://img.shields.io/badge/Azure-Solutions_Architect-informational?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=0089d6)
+![](https://img.shields.io/badge/GitHub-Actions-informational?style=for-the-badge&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/GitHub-Administration-informational?style=for-the-badge&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/GitHub-Advanced%20Security-informational?style=for-the-badge&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/Kubernetes-Application_Developer-informational?style=for-the-badge&logo=Kubernetes&logoColor=white&color=326ce5)
@@ -58,6 +59,7 @@ Some fun and random facts about me:
   - I do plan to try and to return to it soon
 
 ## 🥇 Badges
+![](./github-actions.png)
 ![](./github-administration.png)
 ![](./github-advanced-security.png)
 
