@@ -53,7 +53,7 @@ Checkout any of my repos with `TSA` in the name if you are curious or are intere
 ## ⚡ Fun Facts
 Some fun and random facts about me:
 - I'm happily married with a wonderful daughter and our dog which is a Husky
-- I almost went to school for carpentry instead of computer programming
+- I almost went to school for carpentry instead of computer programming (just like Harrison Ford, except computers instead of acting!)
 - In my spare time, I do pretend to be a carpenter
 - I used to volunteer as an EMT/Firefighter but work has kept me too busy for that
   - I do plan to try and to return to it soon
